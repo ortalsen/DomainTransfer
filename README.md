@@ -6,5 +6,5 @@ datasets--->Name_of_data_set--->source--->samples
 datasets--->Name_of_data_set--->source--->labels
 datasets--->Name_of_data_set--->target--->samples
 For training run from terminal: python main.py --phase=train --dataset_dir=Name_of_data_set (...any other parameter)
-For test run from terminal: python main.py --pashe=test --dataset_dir=Name_of_data_set --domain=target
+For test run from terminal: python main.py --phase=test --dataset_dir=Name_of_data_set --domain=target
 For displaying results in tensorboard run from terminal: tensorboard --logdir=./logs

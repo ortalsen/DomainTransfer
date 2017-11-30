@@ -1,6 +1,6 @@
 # DomainTransfer
 Using AutoDIAL framework for training US-CT end to end network working on real US images.
-Based on the paper Maria Carlucci, Fabio, et al. "AutoDIAL: Automatic DomaIn Alignment Layers." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017
+Based on the paper: Maria Carlucci, Fabio, et al. "AutoDIAL: Automatic DomaIn Alignment Layers." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017
 Datasets should be stored in the following hierarchy: 
 datasets--->Name_of_data_set--->source--->samples
 datasets--->Name_of_data_set--->source--->labels
